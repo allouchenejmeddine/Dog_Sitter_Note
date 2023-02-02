@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858421961773",
+    "project_id": "my-pet-note",
+    "storage_bucket": "my-pet-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858421961773:android:86ba661eca2f696eaf04a4",
+        "android_client_info": {
+          "package_name": "com.example.dog_sitter_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858421961773-lgj7gcmu00kutp1enj3a90s7n6om4adl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANMj8wp0qldWOJlAMJmwrUMHvJaRUYTc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858421961773-lgj7gcmu00kutp1enj3a90s7n6om4adl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
